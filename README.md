@@ -1,4 +1,4 @@
-# httpserver
+# android-httpserver
 A simple android http server based on [nanohttpd](http://nanohttpd.org), support file browse, download and upload.
 ![file_upload](https://github.com/mason-Wang/httpserver/blob/master/img/file_upload.png)
 
